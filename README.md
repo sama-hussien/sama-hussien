@@ -1,6 +1,7 @@
 ## Welcome to My GitHub Profile! ⭐️
 [![My Skills](https://skillicons.dev/icons?i=py,latex,r,js,html,css,linux,matlab,mysql,obsidian,vscode)](https://skillicons.dev)
-![Sky’s GitHub stats](https://github-readme-stats.vercel.app/api?username=SkyQuant&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=sama-hussien&show_icons=true&theme=radical)
+
 
 <!--
 **sama-hussien/sama-hussien** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
