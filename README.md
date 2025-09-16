@@ -1,6 +1,11 @@
 ## Welcome to My GitHub Profile! ⭐️
 [![My Skills](https://skillicons.dev/icons?i=py,latex,r,js,html,css,linux,matlab,mysql,obsidian,vscode)](https://skillicons.dev)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=sama-hussien&show_icons=true&theme=radical)
+## 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=sama-hussien&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sama-hussien&layout=compact&theme=radical)  
+![GitHub Streak](https://streak-stats.demolab.com?user=sama-hussien&theme=radical)
+
 
 
 <!--
