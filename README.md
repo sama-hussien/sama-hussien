@@ -1,4 +1,4 @@
-⭐️## Welcome to My GitHub Profile! ⭐️
+## Welcome to My GitHub Profile! ⭐️
 [![My Skills](https://skillicons.dev/icons?i=py,latex,r,js,html,css,linux,matlab,mysql,obsidian,vscode)](https://skillicons.dev)
 ![Sky’s GitHub stats](https://github-readme-stats.vercel.app/api?username=SkyQuant&show_icons=true&theme=radical)
 
