@@ -1,5 +1,5 @@
 ## Welcome to My GitHub Profile! 🌹
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm,latex.linux,matlab,mysql,obsidian,py,r,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,latex,r,js,html,css,linux,matlab,mysql,obsidian,vscode)](https://skillicons.dev)
 
 <!--
 **sama-hussien/sama-hussien** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
